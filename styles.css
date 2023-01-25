@@ -23,7 +23,7 @@ body {
  width: 350px;
  height: 600px;
  background-color: hsl(216, 50%, 16%);
- margin: auto;
+ margin: 1rem auto;
  border-radius: 15px;
  display: flex;
  flex-direction: column;
